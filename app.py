@@ -12,7 +12,7 @@ def Seturl(url, retry=False):
     url = url[:-1] if url[-1] == "/" else url
     code = url.split("/")[-1]
     final_url = f"{DOMAIN}/{code}"
-    ref = "https://loan.techzed.in/"
+    ref = "https://paisa-king.com/"
     h_get = {"referer": ref}
     h_post = {
         "x-requested-with": "XMLHttpRequest",
