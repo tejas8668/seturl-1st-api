@@ -1,3 +1,4 @@
 Flask
 cfscrape
 beautifulsoup4
+gunicorn
